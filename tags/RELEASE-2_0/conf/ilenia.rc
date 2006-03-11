@@ -1,0 +1,9 @@
+#
+# /etc/ilenia.rc: ilenia (8) configuration 
+#
+
+# POST_PKGADD = ""
+# ASK_FOR_UPDATE = "Yes" or "No"
+# NOT_FOUND_POLICY = "Ask" or "Stop" or "Nevermind"
+
+# End of file
